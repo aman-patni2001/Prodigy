@@ -8,6 +8,9 @@ I have used HTML, CSS and JavaScript to make this web page. API is used to fetch
 It requires a text editor and compiler like VSCode or Sublime Text to develop/code the webpage.
 
 A summary of the major functions that the portal will perform:
-      • The page contains a search interface in which we can search the movie of our choice using key words. Searched movie along with similar movies is then displayed. 
-      • The webpage contains movies displayed in grid layout. 
-      • On hovering over a movie, the user gets movie description and rating.
+
+1) The page contains a search interface in which we can search the movie of our choice using key words. Searched movie along with similar movies is then displayed. 
+
+2) The webpage contains movies displayed in grid layout. 
+
+3) On hovering over a movie, the user gets movie description and rating.
